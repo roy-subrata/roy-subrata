@@ -1,5 +1,11 @@
-## Hi there 👋
+## Subrata Roy 👋
+Dhaka,Bangladesh | (+880)-1716625369 | roy.subrata.cs@gmail.com 
 
+Back End: C#, Asp.net core, Azure                                                                                         
+Front End: Typescript, Javascript , Angular, Blazor 
+Data Pipelines: MS SQL Server, Azure Cosmos DB 
+Soft Skills: Team Collaboration, Continuous Learning, Communication 
+Miscellaneous: Docker, Azure Kubernetes Service (AKS), CI/CD Pipelines
 <!--
 **roy-subrata/roy-subrata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
