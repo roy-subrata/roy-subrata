@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Subrata Roy**
-**Senior Software Engineer (C# | .NET | Angular | Azure)**
+**Software Engineer (C# | .NET | Angular | Azure)**
 
 📍 Dhaka, Bangladesh  
 📞 (+880) 1716625369  
@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-I am a passionate and detail-oriented **Senior Software Engineer** with strong expertise in **.NET, C#, Angular, Azure**, and modern architectural patterns like **CQRS**, **event-driven systems**, and **microservices**. I enjoy building scalable backend systems, designing clean frontend architectures, and solving complex real-world problems through technology.
+I am a passionate and detail-oriented **Software Engineer** with strong expertise in **.NET, C#, Angular, Azure**, and modern architectural patterns like **CQRS**, **event-driven systems**, and **microservices**. I enjoy building scalable backend systems, designing clean frontend architectures, and solving complex real-world problems through technology.
 
 ---
 
